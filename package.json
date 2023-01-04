@@ -20,7 +20,7 @@
     "badger-accordion": "^1.1.2",
     "cross-env": "^5.2.0",
     "koa": "^2.5.2",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "nuxt-buefy": "^0.2.1"
   },
   "devDependencies": {
